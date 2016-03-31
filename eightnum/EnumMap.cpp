@@ -13,6 +13,7 @@ EnumMap::EnumMap()
 
 EnumMap::~EnumMap()
 {
+
 }
 
 void EnumMap::Render(const int cxClient, const int cyClient, HDC surface)
